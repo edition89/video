@@ -1,0 +1,8 @@
+# phpstorm project files
+.idea
+
+# path file
+path.txt
+
+# path with videos
+video
